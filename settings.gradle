@@ -1,0 +1,2 @@
+include ':configservice-build'
+project(':configservice-build').projectDir = new File('app')
